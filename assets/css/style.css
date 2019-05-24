@@ -1,0 +1,89 @@
+.answerchoice {
+	border: 1px solid black;
+  border-radius: 15%;
+	width: 40%;
+	color: white;
+  text-align: center;
+  margin: 10px auto;
+  font-size: 20px;
+  background-color: #005A9C;
+
+}
+
+img {
+  max-height: 250px;
+  width: auto;
+}
+
+#answerblock {
+  text-align: center;
+
+}
+
+#questionblock {
+  text-align: center;
+  font-weight: bold;
+}
+
+#reset {
+  visibility: visible;
+}
+
+body {
+  background-image: url("https://baseballhall.org/sites/default/files/styles/fullscreen_image_popup/public/islandora_images/Robinson%20Jackie%201529-68WT25_Grp_NBL.jpg?itok=gOTNkNUe");
+  background-size: cover;
+  font-family: 'Karla', sans-serif;
+  border: 5px solid #005A9C;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-weight: bolder;
+  font-family: 'Permanent Marker', cursive;
+  padding: 20px;
+  font-size: 75px;
+  margin-top: 50px;
+ 
+ 
+  }
+
+#titlebackground {
+  opacity: 0.8;
+  background-color: #005A9C;
+  width: 70%;
+  height: 15%;
+  margin: auto;
+  float:center;
+  border-radius: 2%;
+}
+
+p {
+  margin: 10px;
+  font-weight: bold;
+  color: red;
+  font-size: 20px;
+}
+
+h2, h4 {
+  margin: 30px;
+  font-weight: bold;
+}
+
+.wrapper {
+  margin: 10px auto;
+  background-color: rgba(255, 255, 255, 0.7);
+  border: 6px solid #005A9C;
+  height: 500px;
+  width: 60%;
+  text-align: center;
+  margin-top: 150px;
+  border-radius: 20%;
+}
+
+.btn {
+  position: relative;
+  bottom: -100px;
+  background-color: #005A9C;
+  font-size: 28px;
+}
